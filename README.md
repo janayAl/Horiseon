@@ -1,2 +1,2 @@
-# html-css-git-homework
+# Horiseon
 First homework assignment. I am refactoring a website to make it more accessible. 
