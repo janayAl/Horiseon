@@ -5,3 +5,5 @@ I made this site more accessible by adding semantic HTML. I included tags such a
 
 Deployed link https://janayal.github.io/Horiseon/
 GitHub Repostiory link https://github.com/janayAl/Horiseon
+
+  ![Screen Shot 2021-06-30 at 7 57 14 AM](https://user-images.githubusercontent.com/82891366/123964212-d4894180-d978-11eb-95b2-8d485a205820.png)
