@@ -4,8 +4,7 @@ I made this site more accessible by adding semantic HTML. I included tags such a
 
 
 
-Deployed Site: https://janayal.github.io/Horiseon/
-GitHub Repository: 
+
 Screenshot : 
 =======
 Deployed link https://janayal.github.io/Horiseon/
